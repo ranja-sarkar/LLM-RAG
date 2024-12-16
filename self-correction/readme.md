@@ -12,3 +12,6 @@ In Oct-2024, Google DeepMind developed and published the approach/algorithm of S
 There's a recent (Nov-2024) survey paper on the different frameworks that could be used for self-correction of **LLMs**.
 
 -> https://lnkd.in/dkUKJm9q
+
+
+Illustrating Reinforcement Learning from Humna Feedback (RLHF): https://huggingface.co/blog/rlhf
