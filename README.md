@@ -26,3 +26,6 @@ Enabling models to perform one-shot and zero-shot learning is admittedly among t
 In the more realistic generalized **zero-shot learning**, training classes are present only at test time and has garnered attention post this publication of late 2020:
 https://arxiv.org/pdf/1703.04394
 
+In July 2020, transfer learning in LLMs garnered attention post publication of the paper entitled **'Language Models are few-shot learners'**:
+https://arxiv.org/pdf/2005.14165
+
