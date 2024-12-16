@@ -16,6 +16,8 @@ The traditional supervised learning paradigm breaks down when we do not have suf
 
 In practice, we seek to transfer as much knowledge as we can from the source setting to our target task or domain. 
 
+https://neptune.ai/blog/transfer-learning-guide-examples-for-images-and-text-in-keras
+
 
 **What is ZERO-SHOT LEARNING?**
 
