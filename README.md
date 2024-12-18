@@ -1,3 +1,7 @@
+
+A list of **LLMs** available for commercial use: https://github.com/eugeneyan/open-llms
+
+
 **What is TRANSFER LEARNING?**
 
 In the classic supervised learning scenario of ML, if we intend to train a model for some task and domain 
