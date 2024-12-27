@@ -66,6 +66,10 @@ Can Generalist Foundation Models Outcompete Special-Purpose Tuning? A case-study
 
 The **power of prompting** repo, as shown in above Medprompt research paper: https://github.com/microsoft/promptbase/ 
 
+Prompt Engineering: https://github.com/NirDiamant/Prompt_Engineering
+
+------------------------
+
 The same year (2023) the effectiveness of **transfer learning**, where a model is first pre-trained on a data-rich task before being fine-tuned on a downstream task has been shown. Transfer learning has emerged as a powerful technique for diverse practices: https://arxiv.org/pdf/1910.10683v4 
 
 An LLM capability can not only be enhanced by diff. prompting strategies but by RAG too. **Retrieval augmented generation (RAG)** enables working with dynamic & current data feed to LLMs, improving accuracy & relevance to specific use-cases. Please refer to this article for more: https://ranjas.substack.com/p/enhancing-llm-capability
