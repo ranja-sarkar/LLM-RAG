@@ -42,3 +42,5 @@ Can Generalist Foundation Models Outcompete Special-Purpose Tuning? A case-study
 
 <img width="476" alt="g4" src="https://github.com/user-attachments/assets/85ef13e6-ebdd-4c24-a1e0-e6e04ed53326" />
 
+The **power of prompting** repo, as shown in above Medprompt research paper: https://github.com/microsoft/promptbase/ 
+
