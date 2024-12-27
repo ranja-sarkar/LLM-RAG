@@ -21,6 +21,7 @@ Different RAG architectures:
 <img width="252" alt="h" src="https://github.com/user-attachments/assets/20ada6cb-5666-4006-a649-fdad2e5edada" />
 
 
-This paper (Feb-2024) discusses RAG foundations, enhancements, limitations, and benchmarks from a survey of the work of researchers & practitioners, providing a detailed discussion on multimodal RAG applications: https://arxiv.org/html/2402.19473v1
 
-Repo: https://github.com/hymie122/RAG-Survey
+**This paper (Feb-2024) discusses RAG foundations, enhancements, limitations, and benchmarks** from a survey of the work of researchers & practitioners, providing a detailed discussion on multimodal RAG applications: https://arxiv.org/html/2402.19473v1
+
+Repo of RAG survey: https://github.com/hymie122/RAG-Survey
