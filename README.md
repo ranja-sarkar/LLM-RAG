@@ -1,4 +1,6 @@
 
+Large & small language models: https://ranjas.substack.com/i/141305038/llm
+
 A list of **LLMs** available for commercial use: https://github.com/eugeneyan/open-llms
 
 Transformer explainer: https://poloclub.github.io/transformer-explainer/
