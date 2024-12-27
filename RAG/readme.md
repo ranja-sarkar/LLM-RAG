@@ -1,4 +1,4 @@
-**GraphRAG**
+**GraphRAG** by Microsoft:
 
 https://microsoft.github.io/graphrag/
 
@@ -25,3 +25,5 @@ Different RAG architectures:
 **This paper (Feb-2024) discusses RAG foundations, enhancements, limitations, and benchmarks** from a survey of the work of researchers & practitioners, providing a detailed discussion on multimodal RAG applications: https://arxiv.org/html/2402.19473v1
 
 Repo of RAG survey: https://github.com/hymie122/RAG-Survey
+
+# TO BE CONTINUED..
