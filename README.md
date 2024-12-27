@@ -3,6 +3,11 @@ Large & small language models: https://ranjas.substack.com/i/141305038/llm
 
 Generative AI Lessons for beginners from Microsoft: https://github.com/microsoft/generative-ai-for-beginners
 
+About **tokenization in NLP**: https://ranjas.substack.com/i/141305038/nlp
+
+Comparison of tokenization methods by Hugging Face, and how different methods impact mathematical as well as word-based LLM tasks: https://huggingface.co/spaces/huggingface/number-tokenization-blog
+
+
 A list of **LLMs** available for commercial use: https://github.com/eugeneyan/open-llms
 
 Transformer explainer: https://poloclub.github.io/transformer-explainer/
@@ -14,7 +19,6 @@ Article "GPT from scratch": https://jaketae.github.io/study/gpt/
 miniGPT by Andrej Karpathy: https://github.com/karpathy/minGPT
 
 Re-implementation of A.Karpathy's nanoGPT: https://github.com/berkerdemirel/GPT-from-scratch
-
 
 **What is TRANSFER LEARNING?**
 
