@@ -1,6 +1,9 @@
 
 A list of **LLMs** available for commercial use: https://github.com/eugeneyan/open-llms
 
+Transformer explainer: https://poloclub.github.io/transformer-explainer/
+
+It features a live GPT-2 model running directly in the browser. 
 
 **What is TRANSFER LEARNING?**
 
