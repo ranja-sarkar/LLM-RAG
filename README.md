@@ -1,6 +1,8 @@
 
 Large & small language models: https://ranjas.substack.com/i/141305038/llm
 
+Generative AI Lessons for beginners from Microsoft: https://github.com/microsoft/generative-ai-for-beginners
+
 A list of **LLMs** available for commercial use: https://github.com/eugeneyan/open-llms
 
 Transformer explainer: https://poloclub.github.io/transformer-explainer/
