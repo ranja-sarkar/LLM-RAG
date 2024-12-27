@@ -20,6 +20,8 @@ GenAI Agents: https://github.com/NirDiamant/GenAI_Agents
 
 Article "GPT from scratch": https://jaketae.github.io/study/gpt/
 
+Building GPT in pytorch from scratch: https://brunomaga.github.io/GPT-lite
+
 miniGPT by Andrej Karpathy: https://github.com/karpathy/minGPT
 
 Re-implementation of A.Karpathy's nanoGPT: https://github.com/berkerdemirel/GPT-from-scratch
