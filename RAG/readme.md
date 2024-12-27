@@ -26,4 +26,7 @@ Different RAG architectures:
 
 Repo of RAG survey: https://github.com/hymie122/RAG-Survey
 
+RAG Techniques: https://github.com/NirDiamant/RAG_Techniques
+
+
 # TO BE CONTINUED..
