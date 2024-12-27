@@ -9,3 +9,14 @@ https://microsoft.github.io/graphrag/
 
 
 To understand the retrieval augmented generation process, please refer to: https://ranjas.substack.com/p/vector-database
+
+Different RAG architectures:
+
+<img width="219" alt="n" src="https://github.com/user-attachments/assets/19a46176-4ace-41f6-b276-1201b517e968" />
+
+
+<img width="221" alt="m" src="https://github.com/user-attachments/assets/91e797e6-e3fb-4c17-8631-f5186e18911d" />
+
+
+<img width="252" alt="h" src="https://github.com/user-attachments/assets/20ada6cb-5666-4006-a649-fdad2e5edada" />
+
