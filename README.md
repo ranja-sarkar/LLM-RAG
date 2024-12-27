@@ -7,6 +7,13 @@ Transformer explainer: https://poloclub.github.io/transformer-explainer/
 
 It features a live GPT-2 model running directly in the browser. 
 
+Article "GPT from scratch": https://jaketae.github.io/study/gpt/
+
+miniGPT by Andrej Karpathy: https://github.com/karpathy/minGPT
+
+Re-implementation of A.Karpathy's nanoGPT: https://github.com/berkerdemirel/GPT-from-scratch
+
+
 **What is TRANSFER LEARNING?**
 
 In the classic supervised learning scenario of ML, if we intend to train a model for some task and domain 
