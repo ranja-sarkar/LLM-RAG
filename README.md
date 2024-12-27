@@ -14,6 +14,10 @@ Transformer explainer: https://poloclub.github.io/transformer-explainer/
 
 It features a live GPT-2 model running directly in the browser. 
 
+GenAI Agents: https://github.com/NirDiamant/GenAI_Agents
+
+----------------------
+
 Article "GPT from scratch": https://jaketae.github.io/study/gpt/
 
 miniGPT by Andrej Karpathy: https://github.com/karpathy/minGPT
