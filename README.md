@@ -66,6 +66,6 @@ The same year (2023) the effectiveness of **transfer learning**, where a model i
 
 An LLM capability can not only be enhanced by diff. prompting strategies but by RAG too. **Retrieval augmented generation (RAG)** enables working with dynamic & current data feed to LLMs, improving accuracy & relevance to specific use-cases. Please refer to this article for more: https://ranjas.substack.com/p/enhancing-llm-capability
 
-Build an LLM-Powered API Agent: https://developer.nvidia.com/blog/build-an-llm-powered-api-agent-for-task-execution/
+Build an LLM-powered API agent: https://developer.nvidia.com/blog/build-an-llm-powered-api-agent-for-task-execution/
 
 # TO BE CONTINUED..
