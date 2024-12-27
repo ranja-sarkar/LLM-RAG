@@ -38,3 +38,7 @@ A **zero-shot** topic classification demo is here: https://huggingface.co/spaces
 In July 2020, transfer learning in LLMs garnered attention post publication of the paper entitled **'Language Models are few-shot learners'**:
 https://arxiv.org/pdf/2005.14165
 
+Can Generalist Foundation Models Outcompete Special-Purpose Tuning? A case-study in medicine with GPT-4 from Nov-2023: https://arxiv.org/pdf/2311.16452
+
+<img width="476" alt="g4" src="https://github.com/user-attachments/assets/85ef13e6-ebdd-4c24-a1e0-e6e04ed53326" />
+
