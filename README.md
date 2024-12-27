@@ -44,3 +44,5 @@ Can Generalist Foundation Models Outcompete Special-Purpose Tuning? A case-study
 
 The **power of prompting** repo, as shown in above Medprompt research paper: https://github.com/microsoft/promptbase/ 
 
+The same year (2023) the effectiveness of **transfer learning**, where a model is first pre-trained on a data-rich task before being fine-tuned on a downstream task has been shown. Transfer learning has emerged as a powerful technique for diverse practices: https://arxiv.org/pdf/1910.10683v4 
+
