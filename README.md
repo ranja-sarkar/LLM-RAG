@@ -1,9 +1,13 @@
 
-Large & small language models: https://ranjas.substack.com/i/141305038/llm
+As a pre-cursor, I suggest reading these 3 simple and easy-to-understand articles (in that order):
+
+1. https://open.substack.com/pub/ranjas/p/revisiting-the-fundamentals-of-nlp-ab9407f7dce2
+2. https://open.substack.com/pub/ranjas/p/vector-database
+3. https://open.substack.com/pub/ranjas/p/enhancing-llm-capability
+   
+-------------------
 
 Generative AI Lessons for beginners from Microsoft: https://github.com/microsoft/generative-ai-for-beginners
-
-About **tokenization in NLP**: https://ranjas.substack.com/i/141305038/nlp
 
 Comparison of tokenization methods by Hugging Face, and how different methods impact mathematical as well as word-based LLM tasks: https://huggingface.co/spaces/huggingface/number-tokenization-blog
 
@@ -14,7 +18,7 @@ Transformer explainer: https://poloclub.github.io/transformer-explainer/
 
 It features a live GPT-2 model running directly in the browser. 
 
-GenAI Agents: https://github.com/NirDiamant/GenAI_Agents
+**GenAI Agents**: https://github.com/NirDiamant/GenAI_Agents
 
 ----------------------
 
@@ -68,17 +72,17 @@ Can Generalist Foundation Models Outcompete Special-Purpose Tuning? A case-study
 
 The **power of prompting** repo, as shown in above Medprompt research paper: https://github.com/microsoft/promptbase/ 
 
-Prompt Engineering: https://github.com/NirDiamant/Prompt_Engineering
+**Prompt Engineering**: https://github.com/NirDiamant/Prompt_Engineering
 
 ------------------------
 
 The same year (2023) the effectiveness of **transfer learning**, where a model is first pre-trained on a data-rich task before being fine-tuned on a downstream task has been shown. Transfer learning has emerged as a powerful technique for diverse practices: https://arxiv.org/pdf/1910.10683v4 
 
-An LLM capability can not only be enhanced by diff. prompting strategies but by RAG too. **Retrieval augmented generation (RAG)** enables working with dynamic & current data feed to LLMs, improving accuracy & relevance to specific use-cases. Please refer to this article for more: https://ranjas.substack.com/p/enhancing-llm-capability
+An LLM capability can not only be enhanced by different prompting strategies but by RAG too. **Retrieval augmented generation (RAG)** enables working with dynamic & current data feed to LLMs, improving accuracy & relevance to specific use-cases. 
 
 Build an LLM-powered API agent: https://developer.nvidia.com/blog/build-an-llm-powered-api-agent-for-task-execution/
 
-LLM tasks: https://github.com/NirDiamant/LLM-tasks
+**Execute LLM tasks**: https://github.com/NirDiamant/LLM-tasks
 
 
 # TO BE CONTINUED..
