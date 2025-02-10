@@ -84,5 +84,7 @@ Build an LLM-powered API agent: https://developer.nvidia.com/blog/build-an-llm-p
 
 **Execute LLM tasks**: https://github.com/NirDiamant/LLM-tasks
 
+**Build agents** by Hugging Face: https://github.com/huggingface/smolagents
+
 
 # TO BE CONTINUED..
