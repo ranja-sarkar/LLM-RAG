@@ -72,6 +72,8 @@ Can Generalist Foundation Models Outcompete Special-Purpose Tuning? A case-study
 
 The **power of prompting** repo, as shown in above Medprompt research paper: https://github.com/microsoft/promptbase/ 
 
+In LLMs, zero-shot prompting is about crafting very precise instructions. Few-shot prompting needs carefully curated edge cases. 
+
 **Prompt Engineering**: https://github.com/NirDiamant/Prompt_Engineering
 
 ------------------------
