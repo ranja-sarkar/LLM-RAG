@@ -8,9 +8,8 @@ https://microsoft.github.io/graphrag/
 <img width="164" alt="11" src="https://github.com/user-attachments/assets/dab57462-786a-467d-a3c1-82f5d57a7bcd" />
 
 
-To understand the retrieval augmented generation process, please refer to: https://ranjas.substack.com/p/vector-database
 
-Different RAG architectures:
+**RAG Architectures**:
 
 <img width="219" alt="n" src="https://github.com/user-attachments/assets/19a46176-4ace-41f6-b276-1201b517e968" />
 
