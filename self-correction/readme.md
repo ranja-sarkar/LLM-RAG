@@ -14,4 +14,6 @@ There's a recent (Nov-2024) survey paper on the different frameworks that could 
 -> https://lnkd.in/dkUKJm9q
 
 
-Hugging Face illustrates Reinforcement Learning from Human Feedback (RLHF): https://huggingface.co/blog/rlhf
+**Hugging Face illustrates Reinforcement Learning from Human Feedback (RLHF)**: 
+
+https://huggingface.co/blog/rlhf
