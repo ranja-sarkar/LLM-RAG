@@ -27,5 +27,7 @@ Repo of RAG survey: https://github.com/hymie122/RAG-Survey
 
 RAG Techniques: https://github.com/NirDiamant/RAG_Techniques
 
+RAG Evaluation by DeepEval framework: https://docs.confident-ai.com/guides/guides-rag-evaluation
+
 
 # TO BE CONTINUED..
