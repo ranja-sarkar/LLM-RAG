@@ -88,5 +88,6 @@ Build an LLM-powered API agent: https://developer.nvidia.com/blog/build-an-llm-p
 
 **Build agents** by Hugging Face: https://github.com/huggingface/smolagents
 
+**When and when NOT to use agents:** https://www.anthropic.com/research/building-effective-agents
 
 # TO BE CONTINUED..
