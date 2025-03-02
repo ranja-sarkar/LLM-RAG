@@ -1,12 +1,4 @@
 
-As a pre-cursor, I suggest reading following interwoven articles in this order:
-
-1. https://open.substack.com/pub/ranjas/p/revisiting-the-fundamentals-of-nlp-ab9407f7dce2
-2. https://open.substack.com/pub/ranjas/p/vector-database
-3. https://open.substack.com/pub/ranjas/p/enhancing-llm-capability
-   
--------------------
-
 Generative AI Lessons for beginners from Microsoft: https://github.com/microsoft/generative-ai-for-beginners
 
 Comparison of tokenization methods by Hugging Face, and how different methods impact mathematical as well as word-based LLM tasks: https://huggingface.co/spaces/huggingface/number-tokenization-blog
