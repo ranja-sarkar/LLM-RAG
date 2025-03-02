@@ -90,4 +90,5 @@ Build an LLM-powered API agent: https://developer.nvidia.com/blog/build-an-llm-p
 
 **When and when NOT to use agents:** https://www.anthropic.com/research/building-effective-agents
 
-# TO BE CONTINUED..
+**TO ERR IS MACHINE**: https://arxiv.org/pdf/2403.17218
+
