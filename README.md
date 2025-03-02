@@ -1,5 +1,5 @@
 
-As a pre-cursor, I suggest reading these 3 simple and easy-to-understand articles (in that order):
+As a pre-cursor, I suggest reading following interwoven articles in this order:
 
 1. https://open.substack.com/pub/ranjas/p/revisiting-the-fundamentals-of-nlp-ab9407f7dce2
 2. https://open.substack.com/pub/ranjas/p/vector-database
