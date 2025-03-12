@@ -1,12 +1,6 @@
-**GraphRAG** by Microsoft:
+LLM capability can not only be enhanced by different prompting strategies but by retrieval augmented generation (RAG) too. 
 
-https://microsoft.github.io/graphrag/
-
-<img width="191" alt="00" src="https://github.com/user-attachments/assets/ae78dd98-9836-4ab4-97ed-cec35eb5649f" />
-
-
-<img width="164" alt="11" src="https://github.com/user-attachments/assets/dab57462-786a-467d-a3c1-82f5d57a7bcd" />
-
+RAG enables working with dynamic & current data feed to LLMs, improving accuracy & relevance to specific use-cases.
 
 
 **RAG Architectures**:
@@ -30,4 +24,12 @@ RAG Techniques: https://github.com/NirDiamant/RAG_Techniques
 RAG Evaluation by DeepEval framework: https://docs.confident-ai.com/guides/guides-rag-evaluation
 
 
-# TO BE CONTINUED..
+**GraphRAG** by Microsoft:
+
+https://microsoft.github.io/graphrag/
+
+<img width="191" alt="00" src="https://github.com/user-attachments/assets/ae78dd98-9836-4ab4-97ed-cec35eb5649f" />
+
+
+<img width="164" alt="11" src="https://github.com/user-attachments/assets/dab57462-786a-467d-a3c1-82f5d57a7bcd" />
+
