@@ -72,8 +72,6 @@ In LLMs, zero-shot prompting is about crafting very precise instructions. Few-sh
 
 The same year (2023) the effectiveness of **transfer learning**, where a model is first pre-trained on a data-rich task before being fine-tuned on a downstream task has been shown. Transfer learning has emerged as a powerful technique for diverse practices: https://arxiv.org/pdf/1910.10683v4 
 
-An LLM capability can not only be enhanced by different prompting strategies but by RAG too. **Retrieval augmented generation (RAG)** enables working with dynamic & current data feed to LLMs, improving accuracy & relevance to specific use-cases. 
-
 Build an LLM-powered API agent: https://developer.nvidia.com/blog/build-an-llm-powered-api-agent-for-task-execution/
 
 **Execute LLM tasks**: https://github.com/NirDiamant/LLM-tasks
