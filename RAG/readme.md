@@ -28,8 +28,4 @@ RAG Evaluation by DeepEval framework: https://docs.confident-ai.com/guides/guide
 
 https://microsoft.github.io/graphrag/
 
-<img width="191" alt="00" src="https://github.com/user-attachments/assets/ae78dd98-9836-4ab4-97ed-cec35eb5649f" />
-
-
-<img width="164" alt="11" src="https://github.com/user-attachments/assets/dab57462-786a-467d-a3c1-82f5d57a7bcd" />
-
+<img width="410" alt="22" src="https://github.com/user-attachments/assets/8139e664-6aff-406c-8016-bc437b163fd9" />
