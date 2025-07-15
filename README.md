@@ -25,10 +25,10 @@ Re-implementation of A.Karpathy's nanoGPT: https://github.com/berkerdemirel/GPT-
 **What is TRANSFER LEARNING?**
 
 In the classic supervised learning scenario of ML, if we intend to train a model for some task and domain 
-A, we assume that we are provided with labeled data (train & test) for the same task and domain. 
+A, we assume that we are provided with labeled data (train & test). 
 
-We can train a model A on this dataset and expect it to perform well on unseen data of the same task and domain. On another occasion, when given data for some other task or domain 
-B, we require labeled data of the same task or domain that we can use to train a new model B  so that we can expect it to perform well on this data.
+We can train a model A on the dataset and expect it to perform well on unseen data of the same task and domain. On another occasion, when data for some other task or domain 
+B, we require labeled data of the same task or domain that we can use to train a new model B  and expect it to perform well on unseen data of domain B.
 
 <img width="365" alt="22" src="https://github.com/user-attachments/assets/c4f41fec-2dc8-4bca-a7ed-85dc83024523" />
 
