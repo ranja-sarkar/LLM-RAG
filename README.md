@@ -19,9 +19,10 @@ Re-implementation of A.Karpathy's nanoGPT: https://github.com/berkerdemirel/GPT-
 **GenAI Agents**: https://github.com/NirDiamant/GenAI_Agents
 
 ---
+
 # Intermediate level 
 
-**What is TRANSFER LEARNING?**
+📌 **What is TRANSFER LEARNING?**
 
 In the classic supervised learning scenario of ML, if we intend to train a model for some task and domain A, we assume that we are provided with labeled data (train & test). 
 
@@ -39,9 +40,7 @@ In practice, we seek to transfer as much knowledge as we can from the source set
 
 https://neptune.ai/blog/transfer-learning-guide-examples-for-images-and-text-in-keras
 
-----
-
-**What is ZERO-SHOT LEARNING?**
+📌 **What is ZERO-SHOT LEARNING?**
 
 If we take transfer learning to the extreme and aim to learn from only a few, one or zero instances of a class, we arrive at few-shot, one-shot, and zero-shot learning respectively. 
 
@@ -66,9 +65,9 @@ In LLMs, zero-shot prompting is about crafting very precise instructions. Few-sh
 
 **Prompt Engineering**: https://github.com/NirDiamant/Prompt_Engineering
 
-------------------------
-
 The same year (2023) the effectiveness of **transfer learning**, where a model is first pre-trained on a data-rich task before being fine-tuned on a downstream task has been shown. Transfer learning has emerged as a powerful technique for diverse practices: https://arxiv.org/pdf/1910.10683v4 
+
+----
 
 Build an LLM-powered API agent: https://developer.nvidia.com/blog/build-an-llm-powered-api-agent-for-task-execution/
 
