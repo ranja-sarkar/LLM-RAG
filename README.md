@@ -1,18 +1,12 @@
+# Beginner level
 
 Generative AI Lessons for beginners from Microsoft: https://github.com/microsoft/generative-ai-for-beginners
 
-Comparison of tokenization methods by Hugging Face, and how different methods impact mathematical as well as word-based LLM tasks: https://huggingface.co/spaces/huggingface/number-tokenization-blog
+Comparison of tokenization methods and how different methods impact mathematical as well as word-based LLM tasks: https://huggingface.co/spaces/huggingface/number-tokenization-blog
 
-
-A list of **LLMs** available for commercial use: https://github.com/eugeneyan/open-llms
+List of open **LLMs** : https://github.com/eugeneyan/open-llms
 
 Transformer explainer: https://poloclub.github.io/transformer-explainer/
-
-It features a live GPT-2 model running directly in the browser. 
-
-**GenAI Agents**: https://github.com/NirDiamant/GenAI_Agents
-
-----------------------
 
 Article "GPT from scratch": https://jaketae.github.io/study/gpt/
 
@@ -21,6 +15,10 @@ Building GPT in pytorch from scratch: https://brunomaga.github.io/GPT-lite
 miniGPT by Andrej Karpathy: https://github.com/karpathy/minGPT
 
 Re-implementation of A.Karpathy's nanoGPT: https://github.com/berkerdemirel/GPT-from-scratch
+
+**GenAI Agents**: https://github.com/NirDiamant/GenAI_Agents
+
+---
 
 **What is TRANSFER LEARNING?**
 
