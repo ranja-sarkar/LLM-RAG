@@ -18,7 +18,7 @@ Re-implementation of A.Karpathy's nanoGPT: https://github.com/berkerdemirel/GPT-
 
 **GenAI Agents**: https://github.com/NirDiamant/GenAI_Agents
 
----
+
 
 # Intermediate level 
 
@@ -67,9 +67,10 @@ In LLMs, zero-shot prompting is about crafting very precise instructions. Few-sh
 
 The same year (2023) the effectiveness of **transfer learning**, where a model is first pre-trained on a data-rich task before being fine-tuned on a downstream task has been shown. Transfer learning has emerged as a powerful technique for diverse practices: https://arxiv.org/pdf/1910.10683v4 
 
-----
 
 # Advanced Level
+
+Fine-tuning LLMs: https://www.turing.com/resources/finetuning-large-language-models
 
 Build an LLM-powered API agent: https://developer.nvidia.com/blog/build-an-llm-powered-api-agent-for-task-execution/
 
