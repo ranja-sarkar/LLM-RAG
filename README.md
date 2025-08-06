@@ -19,18 +19,17 @@ Re-implementation of A.Karpathy's nanoGPT: https://github.com/berkerdemirel/GPT-
 **GenAI Agents**: https://github.com/NirDiamant/GenAI_Agents
 
 ---
+# Intermediate level 
 
 **What is TRANSFER LEARNING?**
 
-In the classic supervised learning scenario of ML, if we intend to train a model for some task and domain 
-A, we assume that we are provided with labeled data (train & test). 
+In the classic supervised learning scenario of ML, if we intend to train a model for some task and domain A, we assume that we are provided with labeled data (train & test). 
 
-We can train a model A on the dataset and expect it to perform well on unseen data of the same task and domain. On another occasion, when data for some other task or domain 
-B, we require labeled data of the same task or domain that we can use to train a new model B  and expect it to perform well on unseen data of domain B.
-
-<img width="365" alt="22" src="https://github.com/user-attachments/assets/c4f41fec-2dc8-4bca-a7ed-85dc83024523" />
+We can train a model A on the dataset, make it perform well and expect it to perform well on unseen data too of the same task and domain. On another occasion, when data for some other task or domain B, we require labeled data of the same task or domain that we can use to train a new model B and expect it to perform well on unseen data of domain B. 
 
 The traditional supervised learning paradigm breaks down when we do not have sufficient labeled data for the task or domain we care about to train a reliable model and a model that has inherited bias of its training data does not know how to generalize to the new domain. 
+
+<img width="365" alt="22" src="https://github.com/user-attachments/assets/c4f41fec-2dc8-4bca-a7ed-85dc83024523" />
 
 **Transfer learning** allows us to deal with these scenarios by leveraging the already existing labeled data of some related task or domain. We try to store this knowledge gained in solving the source task in the source domain and apply it to our problem of interest. 
 
@@ -40,6 +39,7 @@ In practice, we seek to transfer as much knowledge as we can from the source set
 
 https://neptune.ai/blog/transfer-learning-guide-examples-for-images-and-text-in-keras
 
+----
 
 **What is ZERO-SHOT LEARNING?**
 
