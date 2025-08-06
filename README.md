@@ -68,7 +68,7 @@ In LLMs, zero-shot prompting is about crafting very precise instructions. Few-sh
 The same year (2023) the effectiveness of **transfer learning**, where a model is first pre-trained on a data-rich task before being fine-tuned on a downstream task has been shown. Transfer learning has emerged as a powerful technique for diverse practices: https://arxiv.org/pdf/1910.10683v4 
 
 
-# Advanced Level
+# Advanced level
 
 Fine-tuning LLMs: https://www.turing.com/resources/finetuning-large-language-models
 
@@ -81,4 +81,10 @@ Build an LLM-powered API agent: https://developer.nvidia.com/blog/build-an-llm-p
 **When and when NOT to use agents:** https://www.anthropic.com/research/building-effective-agents
 
 **TO ERR IS MACHINE**: https://arxiv.org/pdf/2403.17218
+
+Reinforcement Learning (RL) intro: https://mlu-explain.github.io/reinforcement-learning/
+
+RL for LLMs: https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training
+
+---
 
