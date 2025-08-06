@@ -69,11 +69,13 @@ The same year (2023) the effectiveness of **transfer learning**, where a model i
 
 ----
 
+# Advanced Level
+
 Build an LLM-powered API agent: https://developer.nvidia.com/blog/build-an-llm-powered-api-agent-for-task-execution/
 
 **Execute LLM tasks**: https://github.com/NirDiamant/LLM-tasks
 
-**Build agents** by Hugging Face: https://github.com/huggingface/smolagents
+**Build agents** : https://github.com/huggingface/smolagents
 
 **When and when NOT to use agents:** https://www.anthropic.com/research/building-effective-agents
 
