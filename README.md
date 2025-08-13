@@ -72,11 +72,11 @@ The same year (2023) the effectiveness of **transfer learning**, where a model i
 
 Fine-tuning LLMs: https://www.turing.com/resources/finetuning-large-language-models
 
-Build an LLM-powered API agent: https://developer.nvidia.com/blog/build-an-llm-powered-api-agent-for-task-execution/
+📌 Build an LLM-powered API agent: https://developer.nvidia.com/blog/build-an-llm-powered-api-agent-for-task-execution/
 
 **Execute LLM tasks**: https://github.com/NirDiamant/LLM-tasks
 
-**Build agents** : https://github.com/huggingface/smolagents
+📌 **Build agents** : https://github.com/huggingface/smolagents
 
 **When and when NOT to use agents:** https://www.anthropic.com/research/building-effective-agents
 
