@@ -86,8 +86,6 @@ Fine-tuning LLMs: https://www.turing.com/resources/finetuning-large-language-mod
 
 **Reinforcement Learning** is learning from decisions.
 
-RL algorithm working: https://mlu-explain.github.io/reinforcement-learning/
-
 Reinforcement Learning (RL) intro: https://mlu-explain.github.io/reinforcement-learning/
 
 RL for LLMs: https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training
