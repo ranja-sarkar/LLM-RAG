@@ -92,3 +92,9 @@ RL for LLMs: https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-
 
 ---
 
+![1](https://github.com/user-attachments/assets/72b4dcb8-1ed5-4cc3-bbfc-3810c0178406)
+
+
+![2](https://github.com/user-attachments/assets/d5461735-e2c5-4d14-8b61-3771f1168be3)
+
+
